@@ -1,7 +1,7 @@
-package ru.netology.bdd;
+package ru.netology.web;
 
 import io.cucumber.junit.platform.engine.Cucumber;
 
 @Cucumber
-public class RunCucumberTest {
+public class CucumberTest {
 }
